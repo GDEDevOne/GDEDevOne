@@ -1,4 +1,4 @@
-#👋 Seja bem-vindo(a) ao meu GitHub
+👋 Seja bem-vindo(a) ao meu GitHub
 
 ## Sobre mim
 Meu nome é Guilherme Fernando Dal Evedove, e moro em Curitiba-PR. Sou Desenvolvedor Back-end com experiência em .NET, C#, SQL Server e Vue3, atuando no desenvolvimento de APIs performáticas e seguras. Tenho vivência em arquitetura DDD, microsserviços, SignalR para comunicação em tempo real e integrações blockchain (Tron, Bitcoin e BNB).
