@@ -18,8 +18,7 @@ Gosto de resolver problemas complexos, trabalhar em projetos desafiadores e apre
 ## Onde me encontrar
 
 <div> 
-  <a href="https://www.linkedin.com/in/guilherme-fernando-dal-evedove-224a16182/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-  <a href="mailto:evedoveguilherme@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+  <a href="https://www.linkedin.com/in/guilherme-fernando-dal-evedove-224a16182/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> 
 </div>
 
 ## Meu GitHub em números
